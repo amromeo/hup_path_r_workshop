@@ -93,6 +93,9 @@ We will be utilizing our cloud based RStudio instance in the workshop. However, 
 
 ## Acknowledgments
 
+<details>
+  <summary>Click to expand!</summary>
+
 All of the course instructors have previous experience implementing and executing R workshops at a variety of venues. The workshop we are presenting for the trainees at HUP is in many ways a product of these past experiences. The workshop also integrates content, best practices, and lessons from a variety of educators in the R community. We would like to specifically acknowledge:
 
 -   Joe Rudolf and Patrick Mathias who permitted us to use their recordings for this workshop!
@@ -108,6 +111,9 @@ All of the course instructors have previous experience implementing and executin
 -   Claus Wilke's [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/), a compendium of Do's and Don'ts of data visualization.
 -   Method validation and some other content has been borrowed from the [basic R course at AACC](https://github.com/pcmathias/AACC-Introduction-to-R)
 
+    
+</details>
+    
 ## License
 
 All of the material in this GitHub repository is copyrighted under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) copyright to make the material easy to reuse. We encourage you to reuse it and adapt it for your own teaching as you like!
