@@ -32,6 +32,10 @@ For the best experience, please have the following ready before the workshop beg
 
 ### Get Set...
 
+
+<details>
+  <summary>Click to expand!</summary>
+
 -   We will be using RStudio Cloud as our training environment.
 
     -   Please sign up for a free account [here](https://rstudio.cloud/).
@@ -60,11 +64,18 @@ For the best experience, please have the following ready before the workshop beg
 
 -   Please complete the following survey so we can better understand your R experience and what you want out of the course: [API R Workshop Participant Survey](https://forms.gle/Xe3U71ZBZRmrP2E87).
 
+</details>
+
 ### Go!
+
+<details>
+  <summary>Click to expand!</summary>
 
 The workshop is scheduled to begin on 12/20 at 3 pm ET. It will run at the same time from 12/20-12/23.
 
 Please make every effort to log into the Zoom conference 5 - 10 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
+
+</details>
 
 ## Accessing/interacting with the course content
 
