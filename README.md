@@ -16,6 +16,9 @@ This introductory R workshop aims to teach participants with little or no progra
 
 ### Get Ready...
 
+<details>
+  <summary>Click to expand!</summary>
+
 For the best experience, please have the following ready before the workshop begins:
 
 -   *Preferably* two monitors (or two laptops), one for the Zoom conference software, and one in which you will work. Otherwise you'll have a bunch of switching back and forth.
@@ -23,6 +26,9 @@ For the best experience, please have the following ready before the workshop beg
 -   Install the latest version of [Zoom](https://zoom.us/download).
 
 -   Install the latest version of [Google Chrome](https://www.google.com/chrome/) as some [older browsers](https://support.rstudio.com/hc/en-us/articles/227449447-Supported-browsers-for-RStudio-Connect) may not be compatible with the RStudio application).
+
+
+</details>
 
 ### Get Set...
 
