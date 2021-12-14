@@ -9,8 +9,8 @@ This introductory R workshop aims to teach participants with little or no progra
     -   [Daniel Herman](http://pathology.med.upenn.edu/department/people/906/daniel-s-herman)
     -   [Stephan Kadauke](https://www.linkedin.com/in/skadauke/)
     -   [Amrom Obstfeld](https://www.chop.edu/doctors/obstfeld-amron)
-    -   [Patrick Mathias](https://www.linkedin.com/in/pcmathias/)
-    -   [Joseph Rudolf](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6005682&name=joseph-w-rudolf)
+    -   [Patrick Mathias](https://www.linkedin.com/in/pcmathias/) (remote)
+    -   [Joseph Rudolf](https://healthcare.utah.edu/fad/mddetail.php?physicianID=u6005682&name=joseph-w-rudolf) (remote)
 
 ## Before you arrive
 
@@ -30,9 +30,23 @@ For the best experience, please have the following ready before the workshop beg
 
     -   Please sign up for a free account [here](https://rstudio.cloud/).
 
+        -   After logging in you should see a screen like this:
+
+            ![](www/default.png)
+
     -   Then use [this](https://rstudio.cloud/project/3364717 "Rstudio Cloud") link to access our Workshop Project
 
-        -   
+        -   You should see a spinny icon like this:
+
+            <img src="www/deploying.png" width="273"/>
+
+        -   You'll then see a full RStudio Screen like this:
+
+            ![](www/rstudio.PNG)
+
+        -   On the upper right you'll see text that says "TEMPORARY COPY. Save a Permanent Copy" Press the text that says "Save a Permanent Copy".
+
+            ![](www/temp.png)
 
 -   Calendar invites with Zoom details will be sent prior to the workshop.
 
