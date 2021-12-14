@@ -48,35 +48,37 @@ For the best experience, please have the following ready before the workshop beg
 
             ![](www/temp.png)
 
--   Calendar invites with Zoom details will be sent prior to the workshop.
+    -   You're Done!
 
--   Join the pre-course technology/AV check sessions tentatively schedule for 7/14/2021 at 1pm ET- details are in the pre-course email.
+-   Calendar invites with Zoom details were sent out last week.
 
 -   Please complete the following survey so we can better understand your R experience and what you want out of the course: [API R Workshop Participant Survey](https://forms.gle/Xe3U71ZBZRmrP2E87).
 
 ### Go!
 
-The workshop is scheduled to begin on 7/15 at 1 pm ET. Please make every effort to log into the Zoom conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
+The workshop is scheduled to begin on 12/20 at 3 pm ET. It will run at the same time from 12/20-12/23.
+
+Please make every effort to log into the Zoom conference 5 - 10 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
 
 ## Accessing/interacting with the course content
 
 1.  Course content will be pre-loaded in the RStudio instance and is available for download there as a .zip file.
-2.  The content is available at [our course github page](https://github.com/amromeo/api_r2021) and can be downloaded from there as well.
+2.  The content is available at [our course github page](https://github.com/amromeo/hup_path_r_workshop) and can be downloaded from there as well.
 
 ## A note on the mechanics and etiquette of the virtual workshop
 
--   Please do not use anyone else's username.
 -   Please refrain from screen grabbing other user's information, recording the workshop, or otherwise disrupting the flow of the Zoom Meeting.
 -   Please exercise appropriate Zoom etiquette by muting your microphone during sessions. Breakout sessions will be used for those who request additional one-one-one assistance during exercises.
 
-## Installing RStudio onto your own computer
+## IMPORTANT: Installing RStudio onto your own computer
 
 We will be utilizing our cloud based RStudio instance in the workshop. However, *in the long term*, you will need R and RStudio installed **on your own computer** in order to work on private data. You can find step by step instructions for installing these on macOS ([here](https://www.youtube.com/watch?v=GM88tYlEy_g)) or Windows ([here](https://www.youtube.com/watch?v=JRKmZK5-6aE)).
 
 ## Acknowledgments
 
-All of the course instructors have previous experience implementing and executing R workshops at a variety of venues. The workshop we are presenting for the API community is in many ways a product of these past experiences. The workshop also integrates content, best practices, and lessons from a variety of educators in the R community. We would like to specifically acknowledge:
+All of the course instructors have previous experience implementing and executing R workshops at a variety of venues. The workshop we are presenting for the trainees at HUP is in many ways a product of these past experiences. The workshop also integrates content, best practices, and lessons from a variety of educators in the R community. We would like to specifically acknowledge:
 
+-   Joe Rudolf and Patrick Mathias who permitted us to use their recordings for this workshop!
 -   [MSACL Data Science 201](https://github.com/pcmathias/MSACL-intermediate-R-course), a course produced by Patrick Mathias and several collaborators, presented at the Mass Spectrometry: Applications to the Clinical Lab meeting.
 -   Stephan Kadauke's R workshop for Pathology trainees and faculty, developed at the Massachusetts General Hospital and the Hospital of the University of Pennsylvania
 -   Steve Master and Dan Holmes's AACC Introduction to R Workshop
