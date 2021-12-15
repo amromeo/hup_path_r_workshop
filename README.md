@@ -49,11 +49,11 @@ For the best experience, please have the following ready before the workshop beg
 
     -   Then you'll then see a full RStudio Screen like this:
 
-            ![](www/rstudio.PNG)
+        ![](www/rstudio.PNG)
 
     -   Finally, on the upper right, you'll see text that says "TEMPORARY COPY. Save a Permanent Copy" Press the text that says "Save a Permanent Copy".
 
-            ![](www/temp.png)
+        ![](www/temp.png)
 
     -   You're Done!
 
