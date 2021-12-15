@@ -37,24 +37,21 @@ For the best experience, please have the following ready before the workshop beg
   <summary>Click to expand!</summary>
 
 -   We will be using RStudio Cloud as our training environment.
-
     -   Please sign up for a free account [here](https://rstudio.cloud/).
-
         -   After logging in you should see a screen like this:
 
             ![](www/default.png)
 
     -   Then use [this](https://rstudio.cloud/project/3364717 "Rstudio Cloud") link to access our Workshop Project
-
         -   You should see a spinny icon like this:
 
             <img src="www/deploying.png" width="273"/>
 
-        -   You'll then see a full RStudio Screen like this:
+    -   Then you'll then see a full RStudio Screen like this:
 
             ![](www/rstudio.PNG)
 
-        -   On the upper right you'll see text that says "TEMPORARY COPY. Save a Permanent Copy" Press the text that says "Save a Permanent Copy".
+    -   Finally, on the upper right, you'll see text that says "TEMPORARY COPY. Save a Permanent Copy" Press the text that says "Save a Permanent Copy".
 
             ![](www/temp.png)
 
