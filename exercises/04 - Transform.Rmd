@@ -47,7 +47,7 @@ covid_testing_2b
 
 If you have extra time try the following challenge:
 
-In the `covid_testing` dataset the turnaround time metrics are labeled `col_rec_tat` and `rec_var_tat`. Your goal is to select just these columns. Using what we learned as well as the dplyr cheatsheet which of the following code snippets could you use to select these columns?
+In the `covid_testing` dataset the turnaround time metrics are labeled `col_rec_tat` and `rec_ver_tat`. Your goal is to select just these columns. Using what we learned as well as the dplyr cheatsheet which of the following code snippets could you use to select these columns?
 
 ```{r select challenge, eval=FALSE}
 select(covid_testing, contains("rec"))
